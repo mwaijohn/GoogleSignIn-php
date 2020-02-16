@@ -1,0 +1,7 @@
+{
+    "name": "php dependencies",
+    "description": "description",
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
